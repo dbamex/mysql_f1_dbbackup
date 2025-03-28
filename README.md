@@ -1,5 +1,4 @@
- mysql_f1_dbbackup
-# mysql_f1_dbbackup
+#My SQL DB F1 Backup 
 
 
 This is a backup to create a sample database for F1 data, this comprehends data from 1950 up to last race of 2024. 
